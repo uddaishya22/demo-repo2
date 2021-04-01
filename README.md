@@ -1,4 +1,4 @@
-![gitVSlocal](https://user-images.githubusercontent.com/52231567/113282440-8c6c6b80-9304-11eb-9c77-4c24fc50407a.jpg)
+
 # Demo Repo 2
 here we created another repo out of git repository
 if we gonna use any git command it will show:
@@ -51,3 +51,5 @@ This is because our git dont know where to push this file so several steps shall
 for example-
 >> git push
 ]
+
+![gitVSlocal](https://user-images.githubusercontent.com/52231567/113282440-8c6c6b80-9304-11eb-9c77-4c24fc50407a.jpg)
