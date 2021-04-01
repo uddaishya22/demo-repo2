@@ -22,8 +22,8 @@ Try to push this repo as:
 >> git push origin master
 
 we will get:
-fatal: 'origin' does not appear to be a git repository
-fatal: Could not read from remote repository.
+ fatal: 'origin' does not appear to be a git repository
+ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
@@ -40,8 +40,8 @@ This is because our git dont know where to push this file so several steps shall
     >> git remote -v
 
    we will get:
-    origin  https://github.com/uddaishya22/demo-repo2.git (fetch)
-    origin  https://github.com/uddaishya22/demo-repo2.git (push)
+     origin  https://github.com/uddaishya22/demo-repo2.git (fetch)
+     origin  https://github.com/uddaishya22/demo-repo2.git (push)
 
 5. Now push the work files using:
     >> git push origin master
